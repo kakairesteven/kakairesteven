@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kakairesteven
 - 👀 I’m interested in using technology to solve local problems and challenges.
 - 🌱 I’m currently learning practical application of artificial intelligence in local industries.
-- 💞️ I’m looking to collaborate to python projects or geometry programming.
+- 💞️ I’m looking to collaborate to python projects or mathematical programming.
 - 📫 How to reach me: email me at kingkakaire@gmail.com
 
 <!---

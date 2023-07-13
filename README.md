@@ -1,3 +1,3 @@
-Hi, I am Kakaire Steven King, a software engineer interested in software engineering, Machine Learning and Data science.
+Hi, I am Kakaire Steven King, a software engineer: Software systems & ML for software Systems.
 
 

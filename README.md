@@ -1,3 +1,3 @@
-Hi, I am Kakaire Steven King, a Software Engineer: Software Systems | ML for Software Systems.
+Hi, I am Kakaire Steven King, a Software Engineer: Software Engineering | ML for Software Engineering.
 
 

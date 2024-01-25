@@ -1,1 +1,1 @@
-Hi, I am Kakaire Steven King, a Software Engineer, ML. 
+Hi, I am Kakaire Steven, a Software Engineer, ML. 

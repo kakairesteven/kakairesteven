@@ -1,2 +1,2 @@
-Hello there , I am Kakaire Steven King, a software | ML engineer
-working at the intersection of ML and software security Engineering.
+Hello there , I am Kakaire Steven King, a Software | ML engineer
+applying ML and data to to Software Security Engineering.

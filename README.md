@@ -15,4 +15,4 @@ A lead at PyData Kampala, a community of users and developers of Data, Science a
 storage, manipulation, visualization and modelling.
 
 ### Fun fact
-I crazily love reading books. I am authoring one. 
+I am a bookworm. I am about to publish a book. 

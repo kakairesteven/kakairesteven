@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there,
+I am currently working on;
+- Machine Learning and Software Security
+- Data Models for Higher Education Quality Assurance
 
-<!--
-**kakairesteven/kakairesteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My interests are;
+- Research in Machine Learning application in Software Engineering.
+- Machine Learning
+- Scientific Computing
 
-Here are some ideas to get you started:
+### Open Source
+A lead at PyData Kampala, a community of users and developers of Data, Science and Engineering tools that meet regularly to share latest advances in data acquisition,
+storage, manipulation, visualization and modelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun fact
+I crazily love reading books. I am authoring one. 

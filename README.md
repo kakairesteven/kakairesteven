@@ -12,7 +12,7 @@ I am currently working on;
 
 ### Open Source
 A lead at PyData Kampala, a community of users and developers of Data, Science and Engineering tools that meet regularly to share latest advances in data acquisition,
-storage, manipulation, visualization and modelling.
+storage, manipulation, visualization, accessibility and modelling.
 
 ### Fun fact
-Besides code, I am a bookworm. I am about to publish a book. 
+Besides code, I am a bookworm. I am authoring a book on Numerical Computing. 

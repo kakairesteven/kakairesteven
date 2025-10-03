@@ -20,4 +20,4 @@ An open source lead at PyData Kampala, a welcoming community of professionals an
 - PyTorch
 
 ### Shoot me a mail
-<a href="mailto:steven.kakaire@mak.ac.ug">steven.kakaire@mak.ac.ug</a>
+<p><a href="mailto:steven.kakaire@mak.ac.ug">steven.kakaire@mak.ac.ug</a></p>

@@ -9,7 +9,7 @@ I am currently working on;
 - Msc Data Communication and Software Engineering, Mak
 - Bsc Computer Engineering, Mak
 
-### My interests are;
+### Interests
 - Research in Machine Learning application in Software Engineering.
 - Machine Learning
 - Scientific Computing

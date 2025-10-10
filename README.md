@@ -5,6 +5,10 @@ I am currently working on;
 - Machine Learning and Software Security
 - Data Models for Higher Education Quality Assurance
 
+### Education
+- Msc Data Communication and Software Engineering, Mak
+- Bsc Computer Engineering, Mak
+
 ### My interests are;
 - Research in Machine Learning application in Software Engineering.
 - Machine Learning

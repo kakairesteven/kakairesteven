@@ -18,7 +18,7 @@ I am currently working on;
 An open source lead at PyData Kampala, a welcoming community of professionals and enthusiasts in Data, Science and Engineering that meet regularly to share latest advances in data acquisition, storage, manipulation, visualization, accessibility and modeling. 
 
 ### Tools
-- Python, C/C++
+- Python, C
 - NumPy, Pandas, Scikit-learn
 - Matplotlib, Seaborn
 - PyTorch

@@ -1,5 +1,5 @@
 ### Hi there 👋,
-I am Kakaire Steven King, a Machine Learning and Software Engineer.
+I am Steven Kakaire, a Machine Learning and Software Engineer.
 
 I am currently working on;
 - Machine Learning and Software Security
